@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/server-sdk-go"
+	// "github.com/livekit/protocol/livekit"
+	// "github.com/livekit/server-sdk-go"
 )
 
 func getJoinToken(room, identity string) string {
